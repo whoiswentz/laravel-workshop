@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout title="PIXL - Feed">
     @include('partials.navigation')
 
     <main class="-mx-4 flex grow flex-col gap-4 overflow-y-auto px-4 py-4">
